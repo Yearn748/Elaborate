@@ -1,4 +1,4 @@
-export const WebName: string = "Epiphyllum";
+export const WebName: string = "Elaborate";
 export interface ProfileConfig {
     name: string;
     bio: string;
