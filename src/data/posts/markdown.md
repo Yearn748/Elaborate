@@ -6,6 +6,7 @@ category: Examples
 tags: [Markdown, Blogging, Demo]
 top: 1
 draft: false
+image: /test.jpg
 ---
 
 # 一级标题
