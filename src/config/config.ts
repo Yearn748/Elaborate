@@ -41,7 +41,7 @@ export const links: link[] = [
     },
     {
         name: "bilibili",
-        url: "https://space.bilibili.com/158090842",
+        url: "https://space.bilibili.com/666685038",
         symbolId: "ai:fa6-brands:bilibili",
     },
     {
